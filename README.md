@@ -27,15 +27,15 @@
 
 <hr>
 
-<h3>👨‍💻 About Me</h3>
+<h3>About Me</h3>
 
-- 📍 Based in Nashville, TN 🎸
-- 🚀 Over 10 years of professional experience in software development 💼
-- 💻 Specialize in .NET development
-- 🌐 Proficient in Angular, React, Node.js, and TypeScript
-- 📧 Personal Email: fuqua.matt@gmail.com
-- 📧 Work Email: matt.fuqua@fortyau.com
-- 💬 Discord: Ionwin
+- Based in Nashville, TN 🎸
+- Over 10 years of professional experience in software development 💼
+- Specialize in .NET development
+- Proficient in Angular, React, Node.js, and TypeScript
+- Personal Email: fuqua.matt@gmail.com
+- Work Email: matt.fuqua@meetdandy.com
+- Discord: Ionwin
 
 <hr>
 
