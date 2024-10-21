@@ -29,8 +29,8 @@
 
 <h3>About Me</h3>
 
-- Based in Nashville, TN 🎸
-- Over 10 years of professional experience in software development 💼
+- Based in Nashville, TN
+- Over 10 years of professional experience in software development
 - Specialize in .NET development
 - Proficient in Angular, React, Node.js, and TypeScript
 - Personal Email: fuqua.matt@gmail.com
